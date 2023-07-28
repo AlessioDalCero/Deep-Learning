@@ -1,4 +1,4 @@
-name: Logistic-Regression-environment
+name: Deep-Learning
 
 channels:
   - conda-forge
