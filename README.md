@@ -12,6 +12,6 @@ Für die direkte Ausführung wird die Plattform myBinder https://mybinder.org/ v
 
 # Ausführung via MyBinder
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlessioDalCero/Deep-Learning/HEAD)
 
 Um die Übungsaufgabe und Musterlösung auszuführen klicken Sie auf den oben Button. Wählen Sie im Anschluss Links im Reiter das gewünschte Beispiel aus und führen Sie es aus.
